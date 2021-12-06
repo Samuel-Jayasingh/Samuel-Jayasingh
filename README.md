@@ -76,7 +76,7 @@ to help others to grow and excel!
 
   - If you have any suggestions to this README, feel free to inform me. And if you liked, you are free to use it for yourself.(P.S. Star it too!!:grimacing: )
 
-![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=SamuelJayasingh)
+
 
  -------
 Credits: [Samuel Jayasingh](https://github.com/SamuelJayasingh)
